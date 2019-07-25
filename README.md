@@ -5,3 +5,7 @@ While choosing a candidate to vote for, a person might go through the informatio
 
 ## Methodology
 Our approach to the problem of summarizing candidate information boils down to 2 metrics which can help a voter decide between two candidates. We plan to indicate an overall metric to display the effectiveness of a candidate. Along with that another metric indicating the contribution of an individual voter toward the chance of a candidate being elected. 
+
+## Candidate Performance Metric
+Evaluating the performance of a candidate is not a simple task. We plan to evaluate the correlation between a candidate's success and attributes like Education, Criminal Record, Wealth Acquired, No. of policies passed during their time in LS(lok sabha), Attendance in LS, etc.  
+The score should reflect the contribution that the candidate was able to make during their term.
